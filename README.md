@@ -233,6 +233,6 @@ Primary packages:
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Keerthana Venkatesan and Mahi Sheth  
 **Date**: April 2026  
 **Course**: CS439 (Data Mining & Machine Learning)
